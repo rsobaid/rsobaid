@@ -1,4 +1,8 @@
-# Hi there 👋
+# 👾 Rashed Obaid
+
+I'm a student pursuing a Bachelor of Science in Information Technology with a focus on web development and cloud computing. As an aspiring web developer, I have a keen interest in creating dynamic and interactive websites and applications that provide seamless user experiences.
+
+Through my Github projects, I showcase my skills and passion for coding. I am always eager to learn, grow and improve, and I look forward to the challenges and opportunities that lie ahead in my career as a web developer.
 
 ---
 
@@ -24,7 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="42" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
 </div>
-<br />
 
 #
 
