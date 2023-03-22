@@ -5,10 +5,9 @@ I'm a student pursuing a Bachelor of Science in Information Technology with a fo
 Through my Github projects, I showcase my skills and passion for coding. I am always eager to learn, grow and improve, and I look forward to the challenges and opportunities that lie ahead in my career as a web developer.
 
 <a href="https://www.github.com/rsobaid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rsobaid?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-<a href="https://www.twitter.com/rsobaid16" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/rsobaid16?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
+src="https://img.shields.io/github/followers/rsobaid?logo=github&style=for-the-badge&color=236ad3&labelColor=000000" /></a>
+<a href="https://github.com/rsobaid?tab=repositories&sort=stargazers">
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rsobaid?color=facc15&style=for-the-badge&labelColor=000000&logo=star"/></a>
 
 ---
 
